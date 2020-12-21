@@ -6,10 +6,10 @@ The paper explores how different features are encoded in the latent space and sh
 The full post is [here](https://yonigottesman.github.io/2020/11/17/wgan-controllable-generation.html/)
 
 Adding a smile to an image:
-![](https://github.com/yonigottesman/controllable_generation_gan/blob/master/images/smile_generation.png)
+![](https://github.com/yonigottesman/controllable_generation_gan/blob/main/images/smile_generation.png)
 
 removing a smile from an image:
-![](https://github.com/yonigottesman/controllable_generation_gan/blob/master/images/no_smile_generation.png)
+![](https://github.com/yonigottesman/controllable_generation_gan/blob/main/images/no_smile_generation.png)
 
 changing hair color to black:
-![](https://github.com/yonigottesman/controllable_generation_gan/blob/master/images/black_hair.png)
+![](https://github.com/yonigottesman/controllable_generation_gan/blob/main/images/black_hair.png)
